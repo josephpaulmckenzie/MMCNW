@@ -430,17 +430,11 @@ a {
 
 input.box {width:20px;text-align:center;}
 
-​
-
-table {font:.5em comic sans ms;color: black;border:5px;border-style:solid;border-color:#FF5900 ; margin:auto; }
-
-​
-
 p {text-align:center;}   /*makes images horizontal on edit page
 */
 input.box {width:20px;text-align:center;}
 
-table {font:.5em comic sans ms;color: black;border:5px;border-style:solid;border-color:#FF5900 ; margin:auto; }
+table {font:.5em comic sans ms;color: black;margin:auto; }
 
 
 .imagealign {
